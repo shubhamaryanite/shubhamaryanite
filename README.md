@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Shubham!.
+I am a Full stack web developer and Competitive Coder. I believe in Hard work.
+
+🔭 I’m currently working on Crux Module
+🌱 I’m currently learning React
+💬 Ask me about anything here
+📫 How to reach me: shubhamaryanite@gmail.com
 
 <!--
 **shubhamaryanite/shubhamaryanite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
