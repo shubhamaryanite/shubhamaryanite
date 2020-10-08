@@ -1,10 +1,15 @@
-### Hi there 👋 I am Shubham!.
-I am a Full stack web developer and Competitive Coder. I believe in Hard work.
+### Hi there 👋 I am [Yatharth!](https://yatharth1706.github.io).
 
-🔭 I’m currently working on Crux Module
-🌱 I’m currently learning React
-💬 Ask me about anything here
-📫 How to reach me: shubhamaryanite@gmail.com
+I am a Full stack web developer. I believe in Hard work.
+
+- 🔭 I’m currently working on [Login Page](https://github.com/yatharth1706/DevBlogs)
+- 🌱 I’m currently learning React
+- 💬 Ask me about anything [here](https://github.com/shubhamaryanite/shubhamaryanite/issues)
+- 📫 How to reach me: shubhamaryanite@gmail.com
+
+
+[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamaryanite&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **shubhamaryanite/shubhamaryanite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
