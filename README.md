@@ -11,8 +11,7 @@ I am a Competitive Programmer and Front end Web developer. I believe in Hard wor
 - 👯 I’m looking to collaborate on React JS Technology Based Projects
 
 
-
-[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamaryanite&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamaryanite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
