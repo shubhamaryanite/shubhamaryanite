@@ -1,11 +1,15 @@
-### Hi there 👋 I am [Yatharth!](https://yatharth1706.github.io).
+### Hi there 👋 I am [Shubham!](https://shubhamaryanite.github.io).
 
-I am a Full stack web developer. I believe in Hard work.
+### I am a Software Engineer Intern at CDK Global
 
-- 🔭 I’m currently working on [Login Page](https://github.com/yatharth1706/DevBlogs)
-- 🌱 I’m currently learning React
+I am a Competitive Programmer and Front end Web developer. I believe in Hard work.
+
+- 🔭 I’m currently working on [ToDo List](https://github.com/shubhamaryanite/ToDo-List)
+- 🌱 I’m currently learning React-JS(https://github.com/shubhamaryanite/ReactJS-Tutorial)
 - 💬 Ask me about anything [here](https://github.com/shubhamaryanite/shubhamaryanite/issues)
 - 📫 How to reach me: shubhamaryanite@gmail.com
+- 👯 I’m looking to collaborate on React JS Technology Based Projects
+
 
 
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamaryanite&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
