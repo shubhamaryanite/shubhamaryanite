@@ -2,7 +2,7 @@
 
 ### Currently, I am a Software Engineer Intern at CDK Global
 
-I am a Competitive Programmer and Front end Web developer. I believe in Hard work.
+I am a Competitive Programmer and a Front-end Web developer. I believe in Hard work.
 
 - 🔭 I’m currently working on [ToDo List](https://github.com/shubhamaryanite/ToDo-List)
 - 🌱 I’m currently learning [React-JS](https://github.com/shubhamaryanite/ReactJS-Tutorial)
